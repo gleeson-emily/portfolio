@@ -4,8 +4,8 @@ import React from 'react'
 
 export default function Footer() {
     return (
-<div className="footer">
-    <p>Thanks for visiting!! 💖</p>
+<footer className="footer">
+    <p>Thanks for visiting!! 💖
 <a href="https://www.linkedin.com/in/emily-gleeson24" target="_blank">
         LinkedIn
       </a>
@@ -13,6 +13,7 @@ export default function Footer() {
         GitHub
       </a>
 <a href="https://stackoverflow.com/users/15508690/emilyg">Stack Overflow</a>
-</div>
+</p>
+</footer>
     )
 }

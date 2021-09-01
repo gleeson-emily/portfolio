@@ -6,10 +6,10 @@ import otherImgs from '../other-images/other-images.js'
 
 export default function About(){
     return (
-    <div className="about">
+    <div className="about block">
         <div className="block">
-        <h3>About Me</h3>
-        </div>
+            <h3>About Me</h3>
+            </div>
         <img className="headshot" src={otherImgs.headshot}/>
         <div className="card aboutCard">
         <div className="block">
@@ -20,8 +20,8 @@ export default function About(){
         </div>
         <div className="block">
         <p>Check out the Portfolio tab for some examples of my work, and my details are on the Contact tab if you want to get in touch.</p>
-        </div>
-        </div>
+                </div>
+             </div>
         </div>
     )
 }
