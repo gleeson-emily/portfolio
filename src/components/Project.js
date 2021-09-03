@@ -22,10 +22,10 @@ export default function Project(props) {
     </p>
     </div>
     <div className="block">
-    <a href={props.githubLink} target="_blank">Github</a>
+    <a href={props.githubLink} target="_blank" rel="noreferrer">Github</a>
     </div> 
     <div className="block">
-    <a href={props.deployedLink} target="_blank">Deployed</a>
+    <a href={props.deployedLink} target="_blank" rel="noreferrer">Deployed</a>
     </div>
     </div>
     </div>

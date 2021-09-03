@@ -5,7 +5,6 @@
 
 h3 {
   font-size: 30px;
-  margin: 10px;
 }
 
 h4 {
@@ -29,6 +28,9 @@ h5 {
   background-size: cover;
 }
 
+.text-format {
+  padding: 10px;
+}
 
 .navbar {
   background-color: rgb(248, 203, 160);
@@ -97,18 +99,12 @@ h5 {
 .contact-card {
   max-width: 800px;
   margin: auto;
+  padding: 10px;
   background-color:  rgb(255, 232, 243);
 }
 
 .card-footer-item {
   background-color: rgb(252, 240, 246) ;
-}
-
-.contactForm {
-  max-width: 800px;
-  margin: auto;
-  padding: 10px;
-
 }
 
 .footer {

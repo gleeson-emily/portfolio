@@ -6,11 +6,11 @@ function Tabs({ currentPage, handlePageChange }) {
 
   return (
   <nav className="navbar" role="navigation" aria-label="main navigation">
-    <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    {/* <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
-    </a>
+    </a> */}
     <div id="navbarBasicExample" className="navbar-menu">
       <a href="#home"
           onClick={() => handlePageChange('Home')}

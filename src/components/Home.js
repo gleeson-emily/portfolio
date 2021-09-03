@@ -6,7 +6,7 @@ import React from 'react'
 export default function Home() {
     return (
     <div className="homePage">
-        <h3 className="block">Welcome!</h3>
+        <h3 className="block text-format">Welcome!</h3>
         <div className="homeCard">
             <div className="block">
             <p>My name is Emily Gleeson and I'm a web developer currently living in Toronto, Ontario.</p>

@@ -8,7 +8,7 @@ export default function About(){
     return (
     <div className="about block">
         <div className="block">
-            <h3>About Me</h3>
+            <h3 className="text-format">About Me</h3>
             </div>
         <img className="headshot" alt="Headshot of Web Developer Emily Gleeson" src={otherImgs.headshot} />
         <div className="card aboutCard">
