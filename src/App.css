@@ -52,12 +52,27 @@ h5 {
 
 .aboutCard {
   max-width: 1000px;
-  min-height: 400px;
+  min-height: 300px;
   float: left;
   background-color: rgb(255, 232, 243);
   font-size: 18px;
   margin: 35px;
   padding: 5px;
+}
+
+
+.techCard {
+  min-width: 350px;
+  min-height: 200px;
+  float: left;
+  background-color: rgb(253, 244, 249);
+  font-size: 18px;
+  margin: 35px;
+  padding: 5px;
+}
+
+.skills {
+  margin-top: 5px;
 }
 
 .projectCard {
