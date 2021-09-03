@@ -11,7 +11,7 @@ return (
     Emily Gleeson - Web Developer Portfolio
     </h1>
     <h2 class="subtitle">
-    Aspiring Web Developer
+    Full-Stack Web Developer
     </h2>
   </div>
 </section>

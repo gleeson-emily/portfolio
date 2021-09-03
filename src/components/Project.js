@@ -11,7 +11,10 @@ export default function Project(props) {
     <h4>{`${props.projectTitle}`}</h4>
     </div>
     <div className="block">
-    <h5>{`${props.projectTech}`}</h5>
+    <h5>Technologies Used: {`${props.projectTech}`}</h5>
+    </div>
+    <div className="block">
+        <p>My Role: {`${props.myRole}`}</p>
     </div>
     <div className="block">
     <p>

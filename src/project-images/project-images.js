@@ -4,6 +4,7 @@ import eSportsDash from './esportsdashboard.png'
 import fitnessTracker from './fitness-tracker-dashboard.png'
 import dayPlanner from './dayplanner.png'
 import bookSearch from './booksearch.png'
+import codeCreatures from './code-creatures.png'
 
 const images = {
     planTrip,
@@ -11,7 +12,8 @@ const images = {
     eSportsDash,
     fitnessTracker,
     dayPlanner,
-    bookSearch
+    bookSearch,
+    codeCreatures
 }
 
 

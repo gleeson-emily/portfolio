@@ -10,10 +10,10 @@ export default function About(){
         <div className="block">
             <h3>About Me</h3>
             </div>
-        <img className="headshot" src={otherImgs.headshot}/>
+        <img className="headshot" alt="Headshot of Web Developer Emily Gleeson" src={otherImgs.headshot} />
         <div className="card aboutCard">
         <div className="block">
-        <p>I'm an full-stack web developer currently based in Toronto, Ontario. I previously completed a Bachelor of Arts in Film Studies and a Master of Arts in Film Studies, both at Carleton University, and recently completed a certificate in Full-Stack Web Development through the University of Toronto.</p>
+        <p>I'm an full-stack web developer currently based in Toronto, Ontario. I previously completed a Bachelor of Arts in Film Studies and a Master of Arts in Film Studies, both at Carleton University. After working in public relations for a few years, I recently completed a certificate in Full-Stack Web Development through the University of Toronto to take my career in a new direction.</p>
         </div>
         <div className="block">
         <p>Check out the Portfolio tab for some examples of my work, and my details are on the Contact tab if you want to get in touch.</p>
