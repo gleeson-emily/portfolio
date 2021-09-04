@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0e2273a5.chunk.css",
+    "main.js": "/portfolio/static/js/main.c2ee2cc9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c2ee2cc9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
+    "static/css/2.fc4d167a.chunk.css": "/portfolio/static/css/2.fc4d167a.chunk.css",
+    "static/js/2.c4fcca95.chunk.js": "/portfolio/static/js/2.c4fcca95.chunk.js",
+    "static/js/2.c4fcca95.chunk.js.map": "/portfolio/static/js/2.c4fcca95.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.fc4d167a.chunk.css.map": "/portfolio/static/css/2.fc4d167a.chunk.css.map",
+    "static/css/main.0e2273a5.chunk.css.map": "/portfolio/static/css/main.0e2273a5.chunk.css.map",
+    "static/js/2.c4fcca95.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c4fcca95.chunk.js.LICENSE.txt",
+    "static/media/addtrip.f004ed53.png": "/portfolio/static/media/addtrip.f004ed53.png",
+    "static/media/booksearch.891390bb.png": "/portfolio/static/media/booksearch.891390bb.png",
+    "static/media/budget-app-screenshot.94f515af.png": "/portfolio/static/media/budget-app-screenshot.94f515af.png",
+    "static/media/code-creatures.393ac115.png": "/portfolio/static/media/code-creatures.393ac115.png",
+    "static/media/dayplanner.05de0519.png": "/portfolio/static/media/dayplanner.05de0519.png",
+    "static/media/esportsdashboard.ce10eefa.png": "/portfolio/static/media/esportsdashboard.ce10eefa.png",
+    "static/media/fitness-tracker-dashboard.2553a418.png": "/portfolio/static/media/fitness-tracker-dashboard.2553a418.png",
+    "static/media/headshot.1e98e0aa.JPG": "/portfolio/static/media/headshot.1e98e0aa.JPG",
+    "static/media/App.css": "/portfolio/static/media/portfoliobackground.bee9f156.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd5af5a.js",
+    "static/css/2.fc4d167a.chunk.css",
+    "static/js/2.c4fcca95.chunk.js",
+    "static/css/main.0e2273a5.chunk.css",
+    "static/js/main.c2ee2cc9.chunk.js"
+  ]
+}
