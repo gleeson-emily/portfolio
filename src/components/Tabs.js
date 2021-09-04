@@ -1,17 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
 import 'bulma/css/bulma.min.css';
 
 function Tabs({ currentPage, handlePageChange }) {
 
+  const [isActive, setisActive] = useState(false);
 
   return (
   <nav className="navbar" role="navigation" aria-label="main navigation">
-    {/* <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a onClick={() => {
+              setisActive(!isActive);
+            }}
+            role="button"
+            className={`navbar-burger burger ${isActive ? "is-active" : ""}`}
+            aria-label="menu"
+            aria-expanded="false"
+            data-target="navbarBasicExample"
+          >
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
-    </a> */}
-    <div id="navbarBasicExample" className="navbar-menu">
+    </a>
+    <div id="navbarBasicExample" className={`navbar-menu ${isActive ? "is-active" : ""}`}>
       <a href="#home"
           onClick={() => handlePageChange('Home')}
 
