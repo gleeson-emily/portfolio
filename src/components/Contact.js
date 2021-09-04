@@ -33,7 +33,7 @@ export default function Contact() {
       </div>
    <div className="card-footer-item">
       <a
-        href="https://drive.google.com/file/d/1GSTJWOTUc4nwybM1r9bnrPMPTJ5y4iHA/view?usp=sharing"
+        href="https://docs.google.com/document/d/1n1--jA11mQK8ikiNNgkI8Sj-mLDEzBLJTPPkbaZMMm8/edit?usp=sharing"
         target="_blank" rel="noreferrer"
       >
         Resume
